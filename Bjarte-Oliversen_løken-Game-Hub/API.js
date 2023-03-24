@@ -16,15 +16,11 @@ fetch(apiURL)
           <img class="coverimg" src="${image}" alt="${name}">
            <p>${description}</p>
            <p>Prize: ${prize}€</p>
-          
            <a class="add-to-cart-btn" href="checkout.html">Add to Cart</a>
-
-          
-          </div>
-          `;
+           </div>
+           `;
       })
       .join("");
-
     document.getElementById("games-list-container").innerHTML =
       gamesListContainer;
   })
