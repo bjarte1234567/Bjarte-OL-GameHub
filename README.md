@@ -9,7 +9,7 @@ This is a gaming website you can buy pc games, xbox and ps games. What makes thi
 
 
 
-- Great service
+- Great service!
 - Passionate people
 - Up to date games
 - Many genres from different developers
